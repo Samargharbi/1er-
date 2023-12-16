@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h1, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor=" lightgray">
+  <form action=""> <center> <h1 style="color:rgb(211, 31, 31) ;font-size:60px ">Simple forme </h1>
+    <h3 style="color:rgb(165, 81, 42)">  Is our First project </h3>
+    <p style="color:rgb(85, 66, 58)"><i>Welcom to GDSC </i></p>
+    <a style="color:rgb(168, 109, 82)" href="http://ESSTHS LINK">ESSTHS LINK</a> 
+   <h2><label for="">Name : <input type="text" placeholder="type your name here" required ></label> </h2> 
+   <h2><label for="">Email : <input type="mail" placeholder="type your email here"></label></h2> 
+   <h2><label for="">Message : <textarea name="m" id="m" cols="30" rows="5" placeholder="type your message here"></textarea></label></h2>
+    <input  type="submit" style ="background-color: gray; " value="submit"></input>
+ </center>
+</form>
+</body>
+</html>
+M
